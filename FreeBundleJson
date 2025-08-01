@@ -1,0 +1,1427 @@
+{
+  "available" : true,
+  "cardInfo" : {
+    "backgroundColor" : {
+      "blue" : 0.75,
+      "green" : 0.68999999761581421,
+      "red" : 0.95700007677078247
+    },
+    "backgroundColorDark" : "7C3A50",
+    "backgroundColorDarker" : "B8687A",
+    "backgroundColorLighter" : "F9D7DF",
+    "backgroundColorNormal" : "F4B0BF",
+    "imageName" : "Bundle_free",
+    "isLarge" : false,
+    "isNew" : false,
+    "previewAudioFileName" : "Intro_Free",
+    "speakerImageName" : "Dietmar Markus"
+  },
+  "exercises" : [
+    {
+      "bonusTips" : [
+        {
+          "description" : "Schon 5 Minuten am Tag machen einen Unterschied. Lieber kurz und oft als lang und selten.",
+          "title" : "Trainiere regelmäßig"
+        },
+        {
+          "description" : "Mach jede Übung aktiv mit – so wird dein Muskel Stimme wirklich trainiert.",
+          "title" : "Sprich laut mit"
+        },
+        {
+          "description" : "Ein Lächeln verändert deinen Tonfall – und wirkt sofort sympathischer.",
+          "title" : "Lächle beim Sprechen"
+        },
+        {
+          "description" : "Nimm dich hin und wieder auf – und hör dir zu, wie andere dich hören.",
+          "title" : "Hör dich selbst"
+        }
+      ],
+      "category" : "Einleitung",
+      "duration" : 1,
+      "goal" : "Diese kurze Demo-Einheit zeigt dir, wie die Übungen in der Besser Sprechen App aufgebaut sind: mit einer klaren Struktur, einer kleinen Aufgabe zum Mitmachen und praktischen Tipps. Du bekommst direkt ein erstes Erfolgserlebnis und spürst, wie einfach es ist, deine Stimme bewusster wahrzunehmen. Ziel ist es, dich behutsam ans Training heranzuführen – mit Spaß, Leichtigkeit und ganz ohne Druck.",
+      "id" : "mjPxCxAFnma4xXJqUTi9",
+      "lection" : 1,
+      "order" : 1,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A001_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A001_01.mp3?alt=media&token=e983a4c7-78f4-4159-b15a-10562b022290"
+            }
+          ],
+          "description" : "Willkommen zur ersten Übung!\nIch bin **Markus Kästle** – Sprecher, Coach und deine Stimme fürs Training.\n\n_Alle Übungen hier folgen einem ähnlichen Prinzip:_\nKurze Erklärung, eine einfache Übung zum Mitmachen und ein nützlicher Tipp.\nLass uns direkt starten.",
+          "id" : "2vxllpbMyvHtfTq1PbRP",
+          "order" : 1,
+          "title" : "Willkommen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A001_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A001_02.mp3?alt=media&token=452de72c-1d7b-4555-81dd-ac2aa1dc18b8"
+            }
+          ],
+          "description" : "Such dir eine entspannte Position – **im Sitzen oder Stehen** – und richte dich auf. Atme tief durch die Nase ein … und langsam durch den Mund wieder aus. **Noch einmal:** ein … und aus.\n\nRRR(Jetzt sprich bitte laut und deutlich folgenden Satz nach):[**Meine Stimme zählt. Und ich setze sie bewusst ein.**]\n\nRRR(Nochmal – diesmal mit einem Lächeln):[**Meine Stimme zählt. Und ich setze sie bewusst ein.**]\n\nKlingt gleich besser, oder? Da steckt Potenzial drin.",
+          "id" : "YVsuBhNGEi7kV3F6fWZh",
+          "order" : 2,
+          "title" : "Deine Mini-Übung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A001_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A001_03.mp3?alt=media&token=2a64c7a2-d830-4556-8b04-fe7cde79944e"
+            }
+          ],
+          "description" : "Ab jetzt findest du in der App gezielte Übungen für **Stimme, Betonung, Artikulation, Sprechtempo** – _und vieles mehr_.\n\nAlle Einheiten sind kurz und alltagstauglich. Du kannst jederzeit loslegen – und wirst schnell hören, wie sich deine Stimme verändert.\n\n**Einfach Schritt für Schritt – ganz in deinem Rhythmus.**",
+          "id" : "FkS3FtEN1C63jxBtfTYz",
+          "order" : 3,
+          "title" : "Und so geht’s jetzt weiter"
+        }
+      ],
+      "subtitle" : "Entdecke Besser Sprechen in 90 Sekunden",
+      "title" : "Deine erste Übung"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Neige deinen Oberkörper leicht nach links und rechts, als würdest du Kurven fahren, um deinen Körper weiter aufzuwärmen.",
+          "title" : "Bau Bewegung ein"
+        },
+        {
+          "description" : "Mach zwischendurch Grimassen, um deine Gesichtsmuskulatur zusätzlich zu entspannen.",
+          "title" : "Lockere deine Gesichtsmuskeln"
+        },
+        {
+          "description" : "Achte darauf, tief in den Bauch zu atmen, um deine Atemmuskulatur zu aktivieren.",
+          "title" : "Vertiefe deine Atmung"
+        },
+        {
+          "description" : "Lächle während der Übung, um die Freude am Sprechen zu fördern.",
+          "title" : "Hab Spaß"
+        }
+      ],
+      "category" : "Aufwärmen",
+      "duration" : 3,
+      "goal" : "Diese Übung dient dazu, Ihren Körper und Ihre Sprechwerkzeuge aufzuwärmen, um gut und überzeugend zu sprechen. Sie bringen Ihren Geist und Körper in Schwung und bereiten sich optimal auf das Sprechtraining vor.",
+      "id" : "iF6y27VEI3h137WKdz6z",
+      "lection" : 1,
+      "order" : 2,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A002_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A002_01.mp3?alt=media&token=b2ec03bf-1e15-4451-b153-349836931e6d"
+            }
+          ],
+          "description" : "Um gut und überzeugend zu sprechen, sollte nicht nur Ihr Geist, sondern auch Ihr _Körper_ wach und aufgewärmt sein. Ihre _„Sprechwerkzeuge“_ – also vor allem die _Zunge_ und die _Lippen_ – müssen beweglich und durchblutet sein.",
+          "id" : "Ad8osFw9PGSwIFmq9AC2",
+          "order" : 1,
+          "title" : "Einleitung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A002_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A002_02.mp3?alt=media&token=fa4b8872-76b0-45b1-97c6-8fd7f448be48"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Stellen Sie sich _breitbeinig_ mit _leicht gebeugten Knien_ auf und stellen Sie sich vor, Sie sitzen auf einem Motorrad und fahren eine Straße entlang, durch eine wunderschöne Landschaft. **Ihre Arme halten Sie so, als lägen Sie auf dem Lenker der Maschine**. _Dabei prusten Sie durch die Lippen_ und machen mit der Stimme dazu ein Geräusch, wie ein auf- und abschwellender Motor beim Gas geben.\n\nXXX:Hören & nachmachen\n\nHalten Sie mindestens **2 Minuten** durch! Sprechen darf Spaß machen!",
+          "id" : "cbDMC44HoWGoAGFjBXTU",
+          "order" : 2,
+          "title" : "Die Aufwärmübung durchführen"
+        }
+      ],
+      "subtitle" : "Mit Schwung ins Sprechtraining",
+      "title" : "Aufwärmen fürs Sprechen"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Überprüfe deine Haltung regelmäßig, z. B. beim Stehen in der Warteschlange.",
+          "title" : "Kontrolliere deine Haltung täglich"
+        },
+        {
+          "description" : "Nutze Pendelbewegungen auf den Fußsohlen, um dein Gleichgewicht zu trainieren.",
+          "title" : "Pendle bewusst"
+        },
+        {
+          "description" : "Dehne regelmäßig deine Beinmuskulatur, um die Beweglichkeit zu fördern.",
+          "title" : "Mache Dehnübungen"
+        },
+        {
+          "description" : "Achte darauf, die Schultern entspannt zu lassen, um Verspannungen zu vermeiden.",
+          "title" : "Halte die Schultern locker"
+        }
+      ],
+      "category" : "Körperhaltung",
+      "duration" : 3,
+      "goal" : "Eine aufrechte Körperhaltung ist nicht nur ein Zeichen von Selbstbewusstsein, sondern bildet auch die Grundlage für eine kraftvolle Stimme und eine gesunde Atmung. In dieser Übung lernen Sie, Ihre Haltung bewusst wahrzunehmen, Fehlhaltungen zu korrigieren und die Basis für entspanntes, effektives Sprechen zu schaffen.",
+      "id" : "JHdUKQdiZB8efzGv1xYQ",
+      "lection" : 1,
+      "order" : 3,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A003_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A003_01.mp3?alt=media&token=acdb57c9-cfc7-4d14-beea-4b32a644ab7f"
+            }
+          ],
+          "description" : "Als Kinder hatten wir eigentlich alle noch eine gute Haltung und haben mit der Pubertät begonnen, uns verschiedenste _Fehlhaltungen anzutrainieren_. Über die Jahre meinen wir oft sogar, unsere Fehlhaltung sei richtig, weil es sich für uns so anfühlt. Die Gewohnheit, die oft auch dazu geführt hat, dass sich Muskeln und Bänder verkürzt haben, ist sehr stark. **Die Änderung zu einer ökonomischen, aufrechten Haltung kann am Anfang sehr anstrengend und sogar schmerzhaft sein.** _Lassen Sie sich nicht entmutigen!_\n\nHaben Sie Geduld und Nachsicht mit sich selbst und geben Sie sich ein paar Monate Zeit für solche grundlegenden Veränderungen. Tägliches Üben im Alltag ist natürlich Voraussetzung!",
+          "id" : "fqNeCFQ4dtStGIqE7IxL",
+          "order" : 1,
+          "title" : "Einleitung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A003_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A003_02.mp3?alt=media&token=76db2da0-0fe0-42d8-9d83-c31a01d3009c"
+            }
+          ],
+          "description" : "_Stehen Sie auf beiden Füßen_, die ungefähr hüftbreit voneinander entfernt sind. **Stellen Sie Ihre Füße parallel.** Ihre Füße dürfen, wenn es für Sie so bequemer ist, auch _leicht nach außen zeigen_, aber möglichst nicht nach innen.\n\nMMM:Pendeln Sie leicht nach vorne und zurück und finden Sie die Stellung, in der Sie im Gleichgewicht sind und sich Ihr Körpergewicht auf den Fußsohlen gleichmäßig verteilt.",
+          "id" : "BEoioQ2xwe7t8uvQ7h6V",
+          "order" : 2,
+          "title" : "Die Ausgangsposition finden"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A003_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A003_03.mp3?alt=media&token=6fb1823d-65b2-480c-a064-d0ad126bb339"
+            }
+          ],
+          "description" : "Sind Ihre Knie im Stehen gewohnheitsgemäß durchgedrückt? Dann haben Sie mit Tausenden von Menschen etwas gemeinsam. **Versuchen Sie jetzt, Ihre Knie locker zu lassen.** Ich meine _nicht gebeugt_, sondern einfach nur locker.\n\nLegen Sie eine Hand auf Ihre **Lendenwirbelsäule** und stellen Sie fest, dass Ihr _„Hohlkreuz“_ sich noch deutlicher ausprägt, wenn Sie die Knie durchdrücken.\n\nWenn Sie sich angewöhnen, mit _lockeren, also flexiblen Knien_ zu stehen, schaffen Sie nicht nur die Voraussetzung für die richtige Atmung und ökonomisches, wirkungsvolles Sprechen. Sie tun auch Ihrem **Rücken** und Ihrer **Gesundheit** einen großen Gefallen.",
+          "id" : "QTKpdDJQLpzwas0az7HV",
+          "order" : 3,
+          "title" : "Kniehaltung überprüfen"
+        }
+      ],
+      "subtitle" : "Die Basis der Körperhaltung",
+      "title" : "Stehen wie ein Profi"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Notiere täglich, wann du bewusst die Tiefatmung eingesetzt hast, um deine Fortschritte zu verfolgen.",
+          "title" : "Führe ein Atemtagebuch"
+        },
+        {
+          "description" : "Übe die Tiefatmung beim Gehen, um sie in Bewegung zu integrieren.",
+          "title" : "Nutze Spaziergänge"
+        },
+        {
+          "description" : "Platziere kleine Notizen in deinem Umfeld, die dich an die Tiefatmung erinnern.",
+          "title" : "Setze Erinnerungen"
+        },
+        {
+          "description" : "Übe gemeinsam mit einer anderen Person, um euch gegenseitig zu motivieren und Feedback zu geben.",
+          "title" : "Übe mit einem Partner"
+        }
+      ],
+      "category" : "Körperhaltung",
+      "duration" : 3,
+      "goal" : "Diese Übung unterstützt Sie dabei, die Tief- oder Zwerchfellatmung bewusst einzusetzen, um Ihre Stimme tragender und wohlklingender zu machen. Sie lernen, Ihren Körper beim Sprechen natürlich atmen zu lassen und die Hochatmung zu vermeiden.",
+      "id" : "j9sL4I8FSB21xAjIppMp",
+      "lection" : 1,
+      "order" : 4,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A004_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A004_01.mp3?alt=media&token=41e3a40c-3509-47b4-b4ba-f496e924c2ef"
+            }
+          ],
+          "description" : "Für eine _tragende, wohlklingende Stimme_ ist es erforderlich, die sogenannte Tiefenatmung im Gegensatz zur Hochatmung zu nutzen. Ihr Körper beherrscht das, denn im Schlaf atmen wir alle mit dem Zwerchfell. _Achten Sie einmal beim Einschlafen oder Aufwachen auf Ihren Atem_. Hebt sich Ihre Bauchdecke beim Einatmen und senkt sie sich beim Ausatmen? Das ist die _Tief- oder Zwerchfellatmung_.\n\nUnd im Alltag? Wenn Sie etwas ankündigen oder sagen wollen: Ziehen Sie dann bei der Einatmung Ihre Schultern hoch und heben Ihren Brustkorb? Das nennt man _Hoch- oder Schulteratmung_. Wir sollten also versuchen, unseren Körper auch beim Sprechen atmen zu **lassen**, so wie er es im Schlaf schon tut.",
+          "id" : "Wq5H6ndrCEj0lmmSAf6W",
+          "order" : 1,
+          "title" : "Einleitung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A004_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A004_02.mp3?alt=media&token=52952c7c-f39f-41d7-9f60-8fb38ec037f5"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Stellen Sie sich hin, wie in _Übung Nr. 1_ beschrieben, oder sitzen Sie aufrecht, aber entspannt auf der Stuhlkante. Stellen Sie sich vor, in ca. einem Meter Entfernung vor Ihnen steht in Gesichtshöhe eine brennende Kerze und Sie möchten sie auspusten. Um mehr Intensität im Atemstrom zu erlangen, pusten Sie bitte mit einem scharfen **FFF**. Sagen Sie einmal laut **„Feuer“** und merken Sie sich, wie Sie das **F** sprechen. _(Unterkante obere Schneidezähne liegt auf der Innenseite der Unterlippe, dazwischen reibt sich der Luftstrom)._",
+          "id" : "FmcPU6ZD3IHwrspIYdMc",
+          "order" : 2,
+          "title" : "Die richtige Position einnehmen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A004_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A004_03.mp3?alt=media&token=e53c39d1-521e-4688-878e-5e563a39d5ab"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Pusten Sie jetzt also mit **FFF**, aber ohne vorher einzuatmen! Merken Sie, wie sich irgendetwas im Bauchbereich dabei anspannt? Sehr gut!\n\nLassen Sie diese Spannung wieder los und versuchen Sie, gleichzeitig Ihren Mund zu öffnen und Ihren Kiefer zu entspannen. Also: Kerze mit einem scharfen **FFF** auspusten, kurz innehalten, um dann **gleichzeitig** die Spannung in Bauch und Rücken sowie den Unterkiefermuskel **zu lösen**!",
+          "id" : "ualSSRanGOH0RBkIUgvY",
+          "order" : 3,
+          "title" : "Mit FFF ausatmen ohne vorher einzuatmen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01A004_04",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01A004_04.mp3?alt=media&token=a2019f63-795a-4623-845b-0aeccf98fbfe"
+            }
+          ],
+          "description" : "Merken Sie, wie die Luft automatisch einströmt, ohne dass Sie etwas anderes tun müssen als loszulassen? **Vermeiden Sie bitte**, im Anschluss Ihre Schultern hochzuziehen, um noch mehr Atem zu schöpfen. Sie brauchen nicht so viel Luft!\n\nMachen Sie das _mehrmals_ hintereinander und beobachten Sie dabei die Vorgänge in Ihrem Körper. Gewöhnen Sie Ihren Körper an die Tiefatmung, auch wenn Sie am Anfang vielleicht das Gefühl haben, Sie bekämen dabei nicht genug Luft. Das ist ein Irrtum aus Gewohnheit!",
+          "id" : "1ZCFx4ZnNffD8OxIUBBy",
+          "order" : 4,
+          "title" : "Luft einströmen lassen ohne Schultern zu heben"
+        }
+      ],
+      "subtitle" : "Die Kraft der Zwerchfellatmung",
+      "title" : "Tief durchatmen"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Schließe während der Übung die Augen, um dich besser auf die Resonanz und Schwingungen deiner Stimme zu konzentrieren.",
+          "title" : "Schließe die Augen"
+        },
+        {
+          "description" : "Lege eine Hand auf deine Brust oder deinen Bauch, um die Vibrationen zu spüren.",
+          "title" : "Steigere deine Körperwahrnehmung"
+        },
+        {
+          "description" : "Ändere die Tonhöhe deines Hmmm, um unterschiedliche Resonanzräume zu aktivieren.",
+          "title" : "Probiere Variationen aus"
+        },
+        {
+          "description" : "Achte darauf, zwischen den Hmmm-Lauten ruhig und tief in den Bauch zu atmen.",
+          "title" : "Atme entspannt"
+        }
+      ],
+      "category" : "Stimme",
+      "duration" : 4,
+      "goal" : "Diese Übung hilft Ihnen, Ihrer Stimme mehr Resonanz und Fülle zu verleihen, indem Sie Raum und Schwingung in Ihrem Körper erzeugen. Durch entspanntes Summen und genüssliches Kauen fördern Sie einen volleren, klingenden Stimmklang.",
+      "id" : "4Ip4FdedmsZdXEOlyfNX",
+      "lection" : 2,
+      "order" : 5,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B001_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B001_01.mp3?alt=media&token=4de2e18e-a65f-48a8-823f-df9e80e78ccc"
+            }
+          ],
+          "description" : "Empfinden Sie Ihre Stimme als zu **hoch, zu flach, zu heiser** oder haben Sie vielleicht auch gar kein Gefühl dafür? Welche Stimmen hören Sie bei anderen lieber: die vollen, klingenden oder die, die sich piepsig, metallisch, brüchig oder eng anhören? Wenn Sie möchten, dass Ihre Stimme **voller** klingt, braucht Sie mehr Resonanz, das heißt mehr Raum und mehr Schwingung in Ihrem Körper. Raum entsteht, wenn Sie _lockerlassen_, ohne dabei in sich zusammen zu fallen. Schwingung wird möglich, wenn Sie die Mitte zwischen Anstrengung und Druck sowie Laschheit und fehlender Intensität finden. Dann wird das Zwerchfell Ihre Stimme unterstützen und tragen. Versuchen Sie deshalb, _Übung Nr. 2_ mit dieser Übung zu kombinieren.",
+          "id" : "XM5pHmXmnULJc0Y536lu",
+          "order" : 1,
+          "title" : "Einleitung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B001_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B001_02.mp3?alt=media&token=75352448-2eca-4776-9b0f-081d1c0739cf"
+            }
+          ],
+          "description" : "Sie sitzen **bequem, aber aufrecht** und stellen sich vor, Sie hätten Ihr Lieblingsgericht im Mund. Ihr Mund ist voll und Sie kauen genüsslich.\n\nRRR(Dabei machen Sie):[**Hmmmm!**]\n\nIhre Stimme bewegt sich entspannt von _oben nach unten_, Ihre Lippen vibrieren locker.",
+          "id" : "5Ip1sTqSZTqLjY14p6Cf",
+          "order" : 2,
+          "title" : "Bequeme, aufrechte Sitzposition einnehmen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B001_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B001_03.mp3?alt=media&token=199633dc-295a-4718-bac7-139c1ca1e0e1"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Kauen Sie weiter und verlängern Sie nach jedem dritten **Hmmm!** zu dem Satz:\n\nRRR:Hmmmm, ist das lecker!\n\nStrengen Sie sich dabei nicht an und seien Sie trotzdem aktiv. Wiederholen Sie das einige Minuten lang.",
+          "id" : "c4wV5aYJAzrdIQDH4qmv",
+          "order" : 3,
+          "title" : "Übung erweitern mit einem Satz"
+        }
+      ],
+      "subtitle" : "Klangvoll durch Summen",
+      "title" : "Mit Genuss zur resonanten Stimme"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Nimm dich beim Sprechen auf, um deine Indifferenzlage und Sprechtonlage besser wahrzunehmen und zu vergleichen.",
+          "title" : "Nutze Stimmaufnahmen"
+        },
+        {
+          "description" : "Experimentiere mit unterschiedlichen Tonhöhen, um zu spüren, welche Stimmlage sich am natürlichsten und angenehmsten anfühlt.",
+          "title" : "Variiere die Stimmlage"
+        },
+        {
+          "description" : "Lockere deine Schultern und deinen Nacken vor der Übung, um Verspannungen zu lösen.",
+          "title" : "Fördere Körperentspannung"
+        },
+        {
+          "description" : "Integriere diese Übung in deinen Alltag, um deine natürliche Sprechtonlage nachhaltig zu festigen.",
+          "title" : "Übe regelmäßig"
+        }
+      ],
+      "category" : "Stimme",
+      "duration" : 3,
+      "goal" : "In dieser Übung entdecken Sie Ihre individuelle Sprechtonlage, in der Ihre Stimme mit dem geringsten Kraftaufwand am besten klingt. Durch bewusstes Wahrnehmen und Üben finden Sie den Tonbereich, der Ihnen eine mühelose und authentische Kommunikation ermöglicht.",
+      "id" : "HwRfueDTXymK68GsU4om",
+      "lection" : 2,
+      "order" : 6,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B002_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B002_01.mp3?alt=media&token=ed060486-5f11-439b-8ab8-b2335755020a"
+            }
+          ],
+          "description" : "Sprechen Sie wirklich in **Ihrer** persönlichen Sprechtonlage? Der Tonlage, in der Sie mit dem geringsten Kraftaufwand _(also ökonomisch)_ sprechen und Ihre Stimme am besten klingt? Oder könnte es sein, dass Sie immer ziemlich hoch oder sehr tief sprechen und gar nicht wissen, wo Ihre Sprechtonlage liegt?",
+          "id" : "8aEofLhoSt9m2Nve5urP",
+          "order" : 1,
+          "title" : "Einleitung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B002_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B002_02.mp3?alt=media&token=c4ecd392-45d9-4afb-ab02-263edde6dc83"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "_Stellen oder setzen_ Sie sich bequem hin und stellen Sie sich vor, Sie bejahen entspannt und emotionslos eine Frage _(z. B.: Hast du eigentlich Milch gekauft?)_ mit einem Faul gebrummten: **Hmm.** Dazu nicken Sie leicht mit dem Kopf.",
+          "id" : "UrAbXpblYaGmFnsSnSdO",
+          "order" : 2,
+          "title" : "Bequeme Position einnehmen und entspannt „Hmm“ brummen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B002_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B002_03.mp3?alt=media&token=1c6e1336-8080-413c-befa-8f89c4733403"
+            }
+          ],
+          "description" : "Wiederholen Sie das so lange, bis Sie merken, dass Ihr Brummen immer und ohne Nachdenken in der gleichen Höhe erklingt. Das ist Ihre sogenannte _Indifferenzlage_. Die Lage, in der Ihnen die Stimmerzeugung völlig mühelos gelingt.",
+          "id" : "fRTsRpzQGnAZZz2xd7tO",
+          "order" : 3,
+          "title" : "Indifferenzlage finden durch Wiederholung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B002_04",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B002_04.mp3?alt=media&token=0ae7d0e8-dc2e-440c-b161-740011e38b9a"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Sprechen Sie jetzt folgenden Satz ohne Modulation in genau dieser Lage:\n\nRRR(Ihr Text):[**Das Wetter soll noch mal richtig schön werden!**]\n\nKlang das ein wenig gelangweilt oder fast schlecht gelaunt? Genau: eben indifferent – aber dafür mühelos.",
+          "id" : "sipu5gtUlAg6ob99X67v",
+          "order" : 4,
+          "title" : "Satz in Indifferenzlage sprechen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B002_05",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B002_05.mp3?alt=media&token=cbdbfed5-7bf1-4106-9b6c-157cac18bbc6"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Jetzt sagen Sie diesen Satz noch einmal, starten in Ihrer _Indifferenzlage_, versuchen aber jetzt, sich und andere davon auch zu überzeugen. Sie sprechen also jetzt mit Emotion. Ihre Stimmlage sollte jetzt ungefähr ein bis zwei Töne über Ihrer Indifferenzlage erklingen. Hier liegt also Ihre natürliche Sprechtonlage, immer nah an Ihrer Indifferenzlage.\n\nRRR(Wiederholen Sie):[**Das Wetter soll noch mal richtig schön werden!**]\n\nProbieren Sie jetzt auch andere Sätze und beginnen Sie immer zunächst mit unserem gebrummten **„Ja, hmm.“**",
+          "id" : "8lClR3u5FhbHNS1XovJj",
+          "order" : 5,
+          "title" : "Satz mit Überzeugung erneut sprechen"
+        }
+      ],
+      "subtitle" : "Stimmlich im optimalen Bereich",
+      "title" : "Persönliche Sprechtonlage"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Übe vor einem Spiegel, um die Position deiner Zunge und Lippen zu beobachten.",
+          "title" : "Nutze einen Spiegel"
+        },
+        {
+          "description" : "Sprich den Satz langsam, um dich auf die korrekte Aussprache des „Z“ zu konzentrieren, und steigere dann allmählich das Tempo.",
+          "title" : "Beginne langsam"
+        },
+        {
+          "description" : "Nimm dich auf und höre dir die Aufnahme an, um deine Fortschritte zu überprüfen.",
+          "title" : "Mache Audioaufnahmen"
+        },
+        {
+          "description" : "Achte auf ausreichenden Atemdruck, um das „Z“ klar und deutlich zu artikulieren.",
+          "title" : "Beachte die Atmung"
+        }
+      ],
+      "category" : "Artikulation",
+      "duration" : 4,
+      "goal" : "Diese Übung hilft Ihnen, Ihre Artikulation zu verbessern und besonders den Laut „Z“ deutlich und korrekt auszusprechen. Sie lernen, wie Sie Ihre Sprechwerkzeuge effektiv einsetzen, um klarer und verständlicher zu sprechen.",
+      "id" : "1GcxoVnxRVUPI6u3kmRW",
+      "lection" : 2,
+      "order" : 7,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B003_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B003_01.mp3?alt=media&token=a27040c4-d3ea-45d8-bc29-4eab24c3bfb6"
+            }
+          ],
+          "description" : "Unsere Artikulation, also die Art und Weise, wie wir Konsonanten und Vokale aussprechen, entscheidet, ob wir auch verstanden werden. Auch kann man an der Sprechweise oft die geographische Herkunft hören und wir werden oft, ohne es zu merken oder zu wollen, auch in eine _„soziale Herkunftsschublade“_ gesteckt.\n\nUnsere Sprechwerkzeuge _(s. Aufwärmübung)_ sind neben **Zunge und Lippen** auch **der Kiefer**, **der Gaumen, die Zähne, der Rachen und das Zäpfchen**. Je bewusster wir diese Werkzeuge nutzen, _je aktiver und beweglicher_ wir mit den gesprochenen Lauten umgehen können, umso plastischer, schöner und verständlicher wird unsere Sprache.\n\nBevor wir also in den nächsten 5 Übungen ein paar Vokale und Konsonanten behandeln, die sehr oft schlecht oder falsch artikuliert werden _(viele weitere können Sie sich noch freischalten lassen)_, möchte ich Sie noch auf einen der häufigsten Irrtümer beim Sprechen hinweisen.\n\nDie Aussprache von der Endung **-ig**, wie in **richtig, König, Honig** oder **winzig**. Gesprochen: **_richtich, Könich, Honich_** und **_winzich!_**\n\nIm Deutschen gibt es **Ausspracheregeln** genauso wie es Rechtschreibregeln gibt. Es gibt den _„Ausspracheduden“_ genauso wie den „Rechtschreibduden“, nur wissen es die meisten nicht. Selbst auf der Bühne, im Radio oder im Fernsehen werden Sie diese Endung oft falsch hören von Menschen, die meinen, sie sprächen nun besonders _„hochdeutsch“_. Sie irren und ab jetzt wissen Sie es besser!",
+          "id" : "Vu6IMbQ9V3hgnTj1BBBw",
+          "order" : 1,
+          "title" : "Einleitung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B003_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B003_02.mp3?alt=media&token=f298e760-5164-4f21-a370-cedeb61bf503"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "RRR(Sprechen Sie laut und deutlich den Satz):[**Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo!**]\n\nEin gut gesprochenes **„Z“** braucht genug Atemdruck und eine _kräftige Zunge_. Es wird wie **„t-s“** gesprochen und die Zungenspitze liegt an den unteren Schneidezähnen, ungefähr da, wo das Zahnfleisch beginnt. Der vordere Teil der Zunge _(hinter der Zungenspitze)_ bewegt sich dabei am Zahndamm _(die kleine „Klippe“, die von den oberen Schneidezähnen zum Gaumen führt)_.",
+          "id" : "tJckqmtJRuqsd7mxnAWU",
+          "order" : 2,
+          "title" : "Den Satz laut und deutlich sprechen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B003_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B003_03.mp3?alt=media&token=abff4938-d17c-4f8d-8516-e48cc5939b99"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Klingt es bei Ihnen so:\n\nXXX:Hören Sie sich so an?\n\nOder gibt es Nebengeräusche wie: _pfeifen, schmatzen, sprudeln?_\n\nXXX:Oder eher so?\n\nDann ist diese Übung wichtig für Sie.\n\nRRR(Üben Sie weiter, bis es sich so anhört):[**Zehn zahme Ziegen zogen zehn Zentner Zucker zum Zoo!**]\n\nStellen Sie sich vor, Sie zielten mit Ihrem **„Z“** wie mit einem spitzen Pfeil auf eine Zielscheibe und Sie träfen immer ins Schwarze.",
+          "id" : "yqf7kKr9LFOcO5krX3Nt",
+          "order" : 3,
+          "title" : "Eigene Aussprache überprüfen"
+        }
+      ],
+      "subtitle" : "Das Z meistern",
+      "title" : "Deutliche Artikulation"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Übe vor einem Spiegel, um die Position deiner Zunge beim Aussprechen des „Ch“ zu beobachten.",
+          "title" : "Mache dir die Zungenposition bewusst"
+        },
+        {
+          "description" : "Da das „Ch“ nicht sehr laut gesprochen wird, konzentriere dich auf leise Artikulation, um die korrekte Formung zu trainieren.",
+          "title" : "Übe leise"
+        },
+        {
+          "description" : "Suche das vollständige Gedicht „Die Göttin im Putzzimmer“ und übe weitere Passagen, um die Schwierigkeit zu steigern.",
+          "title" : "Erweitere das Gedicht"
+        },
+        {
+          "description" : "Nimm dich beim Sprechen auf, um deine Aussprache zu kontrollieren und Verbesserungen festzustellen.",
+          "title" : "Mache Aufnahmen"
+        }
+      ],
+      "category" : "Artikulation",
+      "duration" : 2,
+      "goal" : "In dieser Übung konzentrieren Sie sich auf die korrekte Aussprache des „CH“-Lauts, um Ihre Artikulation zu verbessern und deutlicher zu sprechen. Sie lernen, den schwierigen Laut präzise zu formen und Ihre Zunge gezielt einzusetzen.",
+      "id" : "uhytJz1pDzmSotAKD4Ei",
+      "lection" : 2,
+      "order" : 8,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B004_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B004_01.mp3?alt=media&token=2da54c6a-ff1b-433e-a052-ab99ec49c748"
+            }
+          ],
+          "description" : "Wir nehmen uns jetzt einen schwierigen Laut vor: das **„CH“**, wie in ich oder richtig. Sagen Sie bitte ein paar Mal hintereinander und nicht zu laut: **Ich, ich, ich**. Lassen Sie das **ch** ein bisschen länger hören als üblich und merken Sie sich, wo sich Ihre Zunge dabei befindet. Richtig, die hinteren Zungenränder _„kleben“_ sozusagen rechts und links an den Backenzähnen und die Luft rutscht in der Mitte durch die Zungenrinne. Das **„Ch“** kann nicht sehr laut gesprochen werden und soll klingen wie ein leichter Wind, der durch Laubbäume weht.",
+          "id" : "pLB4K1rGvH8Sac4BNZe7",
+          "order" : 1,
+          "title" : "Einleitung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B004_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B004_02.mp3?alt=media&token=12d52e77-aef3-4077-ba2d-f800dd6135cc"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "RRR(Sprechen Sie aktiv und deutlich):[**Alle die Dingerchen,**\n**Bänderchen, Miederchen,**\n**Ihr um die Fingerchen,**\n**Ihr um die Gliederchen.**]",
+          "id" : "HJvoq6Q9uqqRqVkBe1dg",
+          "order" : 2,
+          "title" : "Den Übungssatz aktiv und deutlich sprechen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01B004_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01B004_03.mp3?alt=media&token=ab0c0b27-0089-4a31-80ad-cae470c9d786"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Falls Sie aus Gewohnheit eher faul artikulieren _(besonders in Berlin und Brandenburg ein häufiger Sprechfehler)_, bleibt Ihre Zunge dabei unten liegen und aus dem **„Ch“** wird ein schlabberiges **„Sch“**.\n\nRRR2(So sollte es nicht klingen):[**Alle die Dingerschen,**\n**Bänderschen, Miederschen,**\n**Ihr um die Fingerschen,**\n**Ihr um die Gliederschen.**]\n\nFalls Ihnen der Spruch Lust auf mehr macht: diese vier Zeilen stammen aus dem Gedicht _„Die Göttin im Putzzimmer“ von Friedrich Rückert_, das noch viel mehr schwierige **„Chs“** enthält.",
+          "id" : "fq6DCUTsRUbIELUvjdB2",
+          "order" : 3,
+          "title" : "Aussprachefehler erkennen"
+        }
+      ],
+      "subtitle" : "Feinschliff der Aussprache",
+      "title" : "Das CH meistern"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Starte mit langsamem Tempo und erhöhe die Geschwindigkeit schrittweise, um die korrekte Aussprache beizubehalten.",
+          "title" : "Beginne langsam"
+        },
+        {
+          "description" : "Nutze weitere Zungenbrecher, um deine Artikulationsfähigkeiten weiter zu verbessern.",
+          "title" : "Ergänze Artikulationsübungen"
+        },
+        {
+          "description" : "Mache vor der Übung Lockerungsübungen für Zunge und Lippen, um die Beweglichkeit zu erhöhen.",
+          "title" : "Trainiere die Mundmotorik"
+        },
+        {
+          "description" : "Nimm dich beim Üben auf und höre die Aufnahme ab, um mögliche Stolperstellen zu erkennen und zu korrigieren.",
+          "title" : "Höre deine Aufnahme an"
+        }
+      ],
+      "category" : "Artikulation",
+      "duration" : 3,
+      "goal" : "In dieser Übung trainieren Sie Ihre Artikulation, indem Sie schwierige Lautkombinationen wie „Z“, „CH“ und „ST“ in Zungenbrechern meistern. Dies verbessert Ihre Aussprache und verleiht Ihnen mehr Sicherheit beim Sprechen komplexer Wörter und Sätze.",
+      "id" : "6ZnF5GS6b1va20nIY657",
+      "lection" : 3,
+      "order" : 9,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01C001_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01C001_01.mp3?alt=media&token=6f71fde7-6c05-4fc3-9dcd-8626531965d9"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "In dieser zungenbrecherischen Übung verbinden wir nun das eben geübte **„Z“** und das **„Ch“** mit **„St“**, gesprochen wie **„Scht“** und anderen Konsonanten.\n\nRRR(Sprechen Sie):[**Sie stellte ein tschechisches Streichholzschächtelchen auf den Tisch.**]\n\nSie merken: Besonders die Kombination von **TSCH-e-CH-i-SCHeS STreiCHholzschächtelchen** fällt schwer und muss oft mühsam geübt werden. Bedenken Sie aber: _Es lohnt sich!_\n\nLLL:Wenn Sie diesen Satz schnell, deutlich und überzeugend aussprechen können, wirkt sich das auf Ihre gesamte Artikulation aus.",
+          "id" : "ZPLxs43osSPzQk8z6LD6",
+          "order" : 1,
+          "title" : "Den ersten Zungenbrecher üben"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01C001_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01C001_02.mp3?alt=media&token=4f1dbaa8-cd62-424a-8c4a-93d3d8fe4c28"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Haben Sie keine Mühe mit diesem Satz?\n\nRRR(Dann ergänzen Sie):[**Sie stellte schnell ein österreichisch-tschechisches Streichholzschächtelchen auf den Ausziehtisch.**]",
+          "id" : "elnDwVax5iFFxoRSdwi1",
+          "order" : 2,
+          "title" : "Den Satz erweitern und Schwierigkeit steigern"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01C001_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01C001_03.mp3?alt=media&token=f0df2b6a-a671-45d5-abdb-e8a4f5a4d143"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Und jetzt noch einmal laut und schnell! Kein Problem? Sehr gut, dann gehen Sie zur nächsten Übung.\n\nRRR(Sprechen Sie laut und schnell):[**Sie stellte schnell ein österreichisch-tschechisches Streichholzschächtelchen auf den Ausziehtisch.**]",
+          "id" : "mhcLSmPVLveTpOrP9sQ2",
+          "order" : 3,
+          "title" : "Laut und schnell wiederholen"
+        }
+      ],
+      "subtitle" : "Z, CH und ST im Zusammenspiel",
+      "title" : "Zungenbrecher meistern"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Beginne mit langsamem Tempo, um dich auf die genaue Aussprache des „I“ zu konzentrieren.",
+          "title" : "Übe langsam"
+        },
+        {
+          "description" : "Achte darauf, dass deine Lippen beim „I“ nicht vorgestülpt sind, um ein unbeabsichtigtes „Ü“ zu vermeiden.",
+          "title" : "Beachte die Lippenposition"
+        },
+        {
+          "description" : "Spüre, wie deine Zunge beim „I“ an der gleichen Stelle ist wie beim „CH“ aus Übung Nr. 6.",
+          "title" : "Fühle die Zungenstellung"
+        },
+        {
+          "description" : "Höre dir deine Aufnahme genau an und vergleiche sie mit der korrekten Aussprache, um Verbesserungen zu erkennen.",
+          "title" : "Analysiere deine Aufnahme"
+        }
+      ],
+      "category" : "Artikulation",
+      "duration" : 3,
+      "goal" : "In dieser Übung lernen Sie, das „I“ sauber und deutlich auszusprechen, um Verwechslungen mit dem „Ü“ zu vermeiden. Sie verbessern Ihre Artikulation, um klarer zu kommunizieren und Missverständnisse zu vermeiden.",
+      "id" : "mIohF6W6FdgZIOQaAiVm",
+      "lection" : 3,
+      "order" : 10,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01C002_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01C002_01.mp3?alt=media&token=8a492a24-d90c-4331-9d50-5973e2cab010"
+            }
+          ],
+          "description" : "Kennen Sie es, wenn aus Ihrem **„I“** ein **„Ü“** wird? Ihre Frage nach _Milch_ klingt dann schnell nach _Mülch_, wenn Sie das Problem aus _Übung Nr. 6_ haben, sogar nach _Mülsch_. Wenn Sie so sprechen, laufen Sie schnell Gefahr, in die eingangs erwähnte „Schublade“ gesteckt zu werden.\n\nWir haben in _Übung Nr. 6_ geübt, die Zunge für das **„CH“** an der richtigen Stelle zu platzieren, das **„I“** wird an genau der gleichen Stelle gebildet.\n\nSagen Sie noch einmal **Ich** und achten Sie auf Ihre Zungenstellung. Besonders schwierig ist es, ein sauberes **„I“** vor einem **„Sch“** zu artikulieren. Die Lippen stülpen sich schon vorher für das **Sch** nach vorne, die Zunge liegt faul im Mund und schon sind wir bei dem _Tüsch_ oder dem _Wüschlappen_.",
+          "id" : "yoqaeBzPCLGiDJOKz0KZ",
+          "order" : 1,
+          "title" : "Einleitung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01C002_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01C002_02.mp3?alt=media&token=9b99107d-c702-442e-8a24-c172c2654c84"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "RRR(Sprechen Sie laut):[**Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.**]\n\nSie merken: Die zungenbrecherische Schwierigkeit liegt hier auch noch bei dem fies platzierten **„R“**. Mal kommt eins vor und mal nicht. Am besten, Sie nehmen sich beim Sprechen dieses Satzes einmal auf und hören, ob Ihnen beides gelingt oder ob Ihr Satz eher so ähnlich klingt:\n\nXXX:Klingt es nach Füschers Frütz?\n\nRRR(Statt so):[**Fischers Fritz fischt frische Fische, frische Fische fischt Fischers Fritz.**]",
+          "id" : "Y98ZEC3ND6ut2luPtuH2",
+          "order" : 2,
+          "title" : "Den Zungenbrecher laut sprechen"
+        }
+      ],
+      "subtitle" : "Deutliche Vokale aussprechen",
+      "title" : "Vom Ü zum klaren I"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Suche weitere Wortpaare mit kurzem und langem „Ä“ (z. B. Bälle\/Bären) und sprich sie laut, um den Unterschied zu festigen.",
+          "title" : "Übe Wortpaare"
+        },
+        {
+          "description" : "Betone das lange „Ä“ anfangs bewusst stärker, um ein Gefühl für die Länge zu entwickeln.",
+          "title" : "Betone überdeutlich"
+        },
+        {
+          "description" : "Nimm dich beim Sprechen auf und höre dir die Aufnahmen an, um deine Aussprache selbst zu überprüfen.",
+          "title" : "Nutze Sprachaufnahmen"
+        },
+        {
+          "description" : "Achte darauf, dass deine Lippen beim langen „Ä“ leicht geöffnet sind, um den Klang zu unterstützen.",
+          "title" : "Beobachte die Lippenstellung"
+        }
+      ],
+      "category" : "Artikulation",
+      "duration" : 3,
+      "goal" : "In dieser Übung lernen Sie, das lange „Ä“ bewusst und korrekt auszusprechen, um Ihre Aussprache zu verbessern und die Vielfalt der deutschen Sprache zu bewahren.",
+      "id" : "5knB1FmkdOfwoDsMoa5q",
+      "lection" : 3,
+      "order" : 11,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01C003_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01C003_01.mp3?alt=media&token=1a3c047c-ae8b-4310-98c4-99da66f40e64"
+            }
+          ],
+          "description" : "Ein fast von sämtlichen Deutschen vernachlässigter Laut ist das lange **„Ä“**, wie in _Mädchen_ im Gegensatz zum kurzen **„Ä“** wie z. B. in _Schätze._ Fast alle, die ich kenne, sagen _Medchen_, als würde es mit **„e“** geschrieben. Wenn das richtig wäre, bräuchten wir diesen Laut überhaupt nicht mehr in unserer Sprache und könnten ihn abschaffen.",
+          "id" : "qjfYKoLmpkk0fsJ5Y39s",
+          "order" : 1,
+          "title" : "Einleitung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01C003_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01C003_02.mp3?alt=media&token=9b10c92d-d69f-4833-b9fb-7b40e0f66fa7"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "RRR(Sprechen Sie laut folgenden Kinderreim):[**Miese mause Kätzchen**\n**Wie weich sind deine Tätzchen**\n**Wie zierlich ist dein Näschen**\n**Wie lustig deine Späßchen.**]\n\nHaben Sie bemerkt, dass sich die ersten beiden **„Äs“** von den letzten beiden unterscheiden?\nRichtig, die ersten beiden werden _kurz_ gesprochen, die letzten beiden _lang_.",
+          "id" : "XoqDdVOmbSIcmt3ScIzu",
+          "order" : 2,
+          "title" : "Den Kinderreim laut sprechen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01C003_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01C003_03.mp3?alt=media&token=aca73d4a-edb9-4e45-a3f3-348c228ae109"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Die **Äs** in folgendem Satz werden alle lang gesprochen:\n\nRRR(Sprechen Sie):[**MÄdchen, du kommst zu spÄt mit der SÄge. WÄhrend du getrödelt hast, hat der JÄger die HÄschen geholt, für die ZÄhne seiner BÄren.**]",
+          "id" : "unjsiELHruySM03ZaeIs",
+          "order" : 3,
+          "title" : "Satz mit langen „Äs“ üben"
+        }
+      ],
+      "subtitle" : "Einen vergessenen Laut wiederentdecken",
+      "title" : "Das lange Ä"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Sprich den Zungenbrecher zunächst langsam, um die korrekte Aussprache zu trainieren, bevor du das Tempo steigerst.",
+          "title" : "Beginne langsam"
+        },
+        {
+          "description" : "Konzentriere dich bewusst auf jeden Laut, um Versprecher zu vermeiden.",
+          "title" : "Fokussiere deine Aufmerksamkeit"
+        },
+        {
+          "description" : "Klatsche einen gleichmäßigen Rhythmus, während du sprichst, um den Sprachfluss zu unterstützen.",
+          "title" : "Übe mit Rhythmus"
+        },
+        {
+          "description" : "Teile den Zungenbrecher mit Freunden oder Familie, um in entspannter Atmosphäre zu üben und Feedback zu erhalten.",
+          "title" : "Übe vor Publikum"
+        }
+      ],
+      "category" : "Zungenbrecher",
+      "duration" : 3,
+      "goal" : "In dieser abschließenden Übung verbessern Sie Ihre Artikulation mit einem besonders anspruchsvollen Zungenbrecher. Sie trainieren die klare Aussprache von Lauten wie ch, ck, p, f, d und t und können dabei gleichzeitig die Stimmung aufhellen.",
+      "id" : "aakI8S5ornQIJqu0wuxs",
+      "lection" : 3,
+      "order" : 12,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01C004_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01C004_01.mp3?alt=media&token=d3ed25e6-5a3f-46d8-b96e-55ae8fca68e3"
+            }
+          ],
+          "description" : "Zum Abschluss noch ein besonders schöner Zungenbrecher, mit dem Sie bei vielen Gelegenheiten die allgemeine Stimmung aufheitern können. Neben dem schönen Versprecher, der hier passieren kann, üben Sie **ch** und **ck** im Wechsel, sowie **p, f, d** und **t**. Und: Sie erinnern sich? **-ig** am Ende eines Wortes wird immer wie **-ich** gesprochen!",
+          "id" : "N9untXFaa9WhK1gUb9en",
+          "order" : 1,
+          "title" : "Einleitung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01C004_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01C004_02.mp3?alt=media&token=46656cc8-24aa-40ba-89a5-3f5a6f5c1f90"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "RRR(Sprechen Sie laut):[**In dem dichten Fichtendickicht pickten dicke Finken tüchtig.**]\n\nIst es Ihnen schon passiert? Sie haben **p** und **f** oder **ch** und **ck** vertauscht? Es passiert allen irgendwann, wenn Sie beim schnellen Sprechen kurz nicht mitdenken.\n\nDenn egal **wie gut Sie artikulieren** oder wie schön Ihre Stimme klingt: Wenn Sie das, was Sie sagen, nicht gleichzeitig auch _denken_, also mit Kopf und Herz dabei sind, machen Sie solche Fehler oder es hört Ihnen sowieso niemand zu.",
+          "id" : "2y9V6fqYII3FAHdsDMKV",
+          "order" : 2,
+          "title" : "Den Zungenbrecher laut sprechen"
+        }
+      ],
+      "subtitle" : "Artikulation verfeinern",
+      "title" : "Zungenbrecher zum Abschluss"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Und Muskeln brauchen Aktivierung – selbst 3 Minuten lohnen sich.",
+          "title" : "Stimme ist ein Muskel"
+        },
+        {
+          "description" : "Dieses Mini-Warm-up bringt mehr als eine Stunde pro Woche.",
+          "title" : "Regelmäßig statt selten"
+        },
+        {
+          "description" : "Geh beim Üben ruhig mal ein paar Schritte – das wirkt Wunder.",
+          "title" : "Bewegung hilft der Stimme"
+        },
+        {
+          "description" : "Stell dir vor, deine Stimme fließt wie ein warmer Strom.",
+          "title" : "Denk in Bildern"
+        },
+        {
+          "description" : "Mikro an, Aufnahme läuft – Routine schafft Sicherheit.",
+          "title" : "Setup bereit halten"
+        }
+      ],
+      "category" : "Aufwärmen",
+      "duration" : 7,
+      "goal" : "Diese Übung ist dein täglicher Stimmwecker – direkt aus dem OnAir Bootcamp.\nDu bringst deine Stimme in Schwung, ohne Druck oder Zwang. Stattdessen: Wahrnehmung, Aktivierung, Präsenz. Ob Casting, Meeting, Aufnahme oder Auftritt – mit dieser kleinen Routine bist du in drei Minuten im Modus. Und ganz ehrlich: Was sind schon ein paar Minuten, wenn du dafür souverän, klar und klangvoll rüberkommst?",
+      "id" : "vV5VLp7jgHZvEaX5DAxl",
+      "lection" : 4,
+      "order" : 13,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D001_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D001_01.mp3?alt=media&token=8aa04045-2ad3-4b04-851d-7b146bd72136"
+            }
+          ],
+          "description" : "Willkommen und schön, dass du da bist. Ich bin **Markus Kästle**, dein Coach im _OnAir-Bootcamp_. In diesem kostenlosen Schnupperkurs bekommst du einen kurzen Einblick, wie ich arbeite und wie du dank meiner Hilfe klingen kannst. Lass uns deine Stimme für die kommenden Übungen vorbereiten.\n\nIn den nächsten Minuten wirst du dich **aufwärmen und lockern**. Nicht nur deine Stimme – sondern auch dich selbst. Denn alles beginnt mit **Präsenz**. Mit **Körpergefühl**. Mit **Atem.**\n\nAlso: Such dir einen ruhigen Ort. Steh aufrecht, aber locker. Roll die Schultern. Spüre deinen Stand. Und dann – **atme tief durch die Nase ein** … **und durch den Mund wieder aus.**\n\nRRR3(Jetzt geht’s los):[• **Gähne laut** – und dehne dabei den Rachen. Lass dabei einen Ton mitfließen. Wiederhole das 5 mal.\n\n• **Nun:** Wecke deine Lippen mit einem kräftigen **„Brrrrrr“ auf** – lass die Wangen vibrieren. Auch das machst du 5 mal.]\n\nSpüre, wie sich dein Klang zentriert und stell dir dabei vor, deine Stimme „läuft warm“ wie ein gut geölter Motor – mit jedem Ton wird sie geschmeidiger.",
+          "id" : "M6ayEHnXUjdmj5abJ8Nv",
+          "order" : 1,
+          "title" : "Körper aktivieren – Stimme beginnt im Stand"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D001_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D001_02.mp3?alt=media&token=358b76db-897c-4037-a89e-187c94f0ebc5"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Jetzt bringen wir Klang in deinen Körper. Und zwar spürbar.\n**Summen ist die Geheimwaffe** jedes Profisprechers – denn es aktiviert, ohne zu belasten.\n\nRRR3(Zur Resonanzaktivierung):[• Summe ein **„Mmmmmm“** auf mittlerer Tonhöhe – mit geschlossenen Lippen.\n\n• Klopfe dabei leicht auf Brust, Wangen, Stirn. Die Vibration zeigt dir: Der Klang sitzt.\n\n• Wechsle von **„Mmmmmm“** auf ein offenes **„Aaaaaah“** – wie ein Gong, tief und weich.]\n\nDann sprich folgenden Übungssatz – bewusst, ruhig, mit Raum. Stelle dir dabei vor, deine Stimme füllt den Raum – nicht durch Lautstärke, sondern durch Ruhe.\n\nRRR(Dein Übungssatz):[**Heute spreche ich – aus mir heraus. Ohne Druck. Nur mit Fokus.**]",
+          "id" : "urgLOqPelh8vNyTlZCbn",
+          "order" : 2,
+          "title" : "Resonanzräume öffnen – Stimme spüren, nicht denken"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D001_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D001_03.mp3?alt=media&token=d9737c89-eacb-4974-9e91-ea9b5cc85a9c"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Jetzt bist du bereit für Präzision. Es geht um Klarheit, Haltung und Modus. Die Stimme ist nicht einfach da – sie wird **gerichtet, fokussiert und geführt.**\n\nRRR3(Sprich folgenden Satz dreimal – jedes Mal in einem anderen Modus):[• **Locker & freundlich**\n\n• **Klar & präsent**\n\n• **Souverän & entschlossen**]\n\nHier ein paar Beispiele von mir:\n**„Die Stimme ist bereit – der Tag kann kommen.“**\n\nNimm dich gern dabei auf – und hör dir an, welche Version dich am besten abbildet.\n**Tipp:** Mach diesen Satz zu deinem morgendlichen Mantra. Kleine Rituale schaffen große Wirkung.",
+          "id" : "ax0Hnk3nJKFCFYRU44EQ",
+          "order" : 3,
+          "title" : "Stimme in den Fokus bringen – Präsenz auf Knopfdruck"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D001_04",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D001_04.mp3?alt=media&token=4adfe074-c856-4a8f-9b6d-21d679dfd15a"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Die Stimme unterliegt der Tagesform. Und genau deshalb ist dieser vierte Schritt so wichtig. Sprich jetzt einen ganz spontanen Satz – frei aus dem Bauch.\n\nRRR3(Zum Beispiel):[• **Heute will ich mutiger sprechen.**\n\n• **Ich will meine Stimme hören, nicht verstecken**\n\n• **Ich bin bereit gehört zu werden**]\n\nEs geht nicht um perfekten Klang – sondern um Kontakt zu dir selbst. Die Stimme ist Spiegel deines Zustands. Also schau bzw. höre ruhig mal genauer hin.\n\nHör dir deinen Satz noch mal an. Und frag dich:\n\n• **Wie klingt mein heutiger Start?**\n\n• **Was gefällt mir – was braucht noch Raum?**\n\nWenn du willst, nimm diesen spontanen Satz jeden Tag neu auf. Nach einer Woche hörst du garantiert: Deine Stimme hat sich verändert.",
+          "id" : "wlikMSfyAqjch9p2nXfo",
+          "order" : 4,
+          "title" : "Eigencheck – Wie klingt mein Start?"
+        }
+      ],
+      "subtitle" : "Dein Daily Warm-up",
+      "title" : "Stimme aufwecken"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Dokus leben von feinen Nuancen – nicht von stimmlicher Wucht.",
+          "title" : "Weniger ist mehr"
+        },
+        {
+          "description" : "Lass deine Pausen klingen – sie machen das Gesagte glaubwürdig.",
+          "title" : "Atme den Rhythmus"
+        },
+        {
+          "description" : "Ein innerer Film lässt deine Stimme lebendig wirken.",
+          "title" : "Bild erzeugt Stimmung"
+        },
+        {
+          "description" : "Stimme trägt Emotion, nicht Meinung – neugierig, nicht wertend.",
+          "title" : "Neutral, nicht kalt"
+        },
+        {
+          "description" : "Der erste ist oft zu stark – der zweite meist natürlicher.",
+          "title" : "Zweiter Take wirkt echter"
+        }
+      ],
+      "category" : "Medientraining",
+      "duration" : 6,
+      "goal" : "In dieser Übung tauchst du in die Welt der Off-Stimme für Dokus ein. Du lernst, wie man mit Klarheit, Ruhe und Haltung erzählt – nicht übertreibt, sondern trägt. Denn Doku-Sprechen bedeutet nicht, Texte abzulesen, sondern: Erleben hörbar machen. Wir arbeiten mit einem kleinen Textfragment, das du in drei Schritten übst – bis du das erste echte Doku-Gefühl entwickelst.",
+      "id" : "1Z9YWm7MGMDk3BJTwjgg",
+      "lection" : 4,
+      "order" : 14,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D002_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D002_01.mp3?alt=media&token=8a7ebeb0-2a81-4fd2-a50e-c9b7553b4d66"
+            }
+          ],
+          "description" : "Dokus leben von einer besonderen Haltung: Du bist **Zeuge**, nicht Kommentator.\nDeine Stimme führt, ohne zu drängen. Sie weiß mehr – aber sie lässt Raum.\n\nRRR3(Bevor du sprichst, frag dich):[• Wie klingt jemand, der erlebt – und dann ruhig davon berichtet?\n\n• Wie klingt ein Satz, der berührt, aber nicht belehrt?\n\n• Wie klingt Respekt in der Stimme?]\n\n**Stell dir die Szene vor:**\n\n_Ein alter Mann geht bei Sonnenaufgang durch einen stillen Wald. Der Tau glitzert. Die Welt ist ruhig. Du beobachtest – und erzählst es weiter._\n\n**DIe Mini-Formel:**\n\nNeutral, aber nah. Klar, aber ohne Show.",
+          "id" : "WDbItxDquoXUoOos9lF6",
+          "order" : 1,
+          "title" : "Haltung entwickeln – Beobachten statt bewerten"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D002_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D002_02.mp3?alt=media&token=ca6ef8e1-82bd-4c92-9c89-96892e5b3c0d"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Jetzt sprichst du ein kurzes Doku-Fragment – langsam, mit Raum, mit Haltung. Lies den Text **langsam**, mit **klarer Betonung**, aber **ohne Pathos**. Nimm dich auf – und höre hin: Klingst du wie jemand, der etwas **erzählt**, oder wie jemand, der **es einfach nur abliest**?\n\nSprich den Text ein zweites Mal. Diesmal mit etwas mehr Wärme – als würdest du es jemandem ins Ohr sagen, dem du vertraust.\n\nRRR(Hier ein Beispiel von mir):[**Er war keiner, der viele Worte machte. Aber wer genau hinhörte, verstand, dass da jemand sprach – der wußte wovon er spricht.**]",
+          "id" : "RlVMdi4XzfBV9jNmGrX2",
+          "order" : 2,
+          "title" : "Trockenübung – Der Text ohne Musik"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D002_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D002_03.mp3?alt=media&token=5538ab06-01dc-4e47-82b5-8421b84f3d05"
+            },
+            {
+              "audioFileName" : "01D002_03d",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D002_03d.mp3?alt=media&token=7c878cdd-93d9-411a-9b86-6cf0a8087d75"
+            },
+            {
+              "audioFileName" : "01D002_03s",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D002_03s.mp3?alt=media&token=5b9dccf3-3995-405b-b05c-889e7c6c5f83"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "**Übrigens:** Wenn du Lust auf mehr hast: In meinem OnAir-Bootcamp erwarten dich 100 Übungen für jeden Stil und jedes Genre. Ich würde mich freuen, wenn du vorbeischaust! Doch lass uns zuerst hier weitermachen.\n\nJetzt geht’s auf Sound: Der gleiche Text, aber mit Musikbett. Deine Stimme muss sich **einfügen** – nicht kämpfen. Der Trick: Nicht gegen den Klang arbeiten, sondern **mit ihm atmen**.\n\n**Tipp:** Stell dir vor, du **leitest** ein Bild ein – wie ein Kameraschwenk.\n\nRRR3(Wichtig):[• Halte zwischen den Sätzen kurz inne.\n\n• Lass **Pausen zu** – auch sie gehören zur Doku.\n\n• Sprich ruhig, aber mit Fokus – als würdest du einen Gedanken mittragen.]\n\n**Zur Kontrolle:** Höre dir einfach mein Demo an.\n\nSSS:01D002_03s (Soundbett starten)\n\nRRR(Übungstext):[**Er war keiner, der viele Worte machte. Aber wer genau hinhörte, verstand, dass da jemand sprach – der wusste wovon er spricht.**]\n\nSSS:01D002_03d (Markus Demo anhören)",
+          "id" : "lWO7jDTLw1ukf9EBNoMj",
+          "order" : 3,
+          "title" : "Mit Sounddesign – Stimmung tragen"
+        }
+      ],
+      "subtitle" : "Erzählen mit Haltung",
+      "title" : "Doku-Feeling für Einsteiger"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Auch wenn du ernst sprichst – der Mund darf lächeln. Das färbt die Stimme.",
+          "title" : "Lächeln hört man"
+        },
+        {
+          "description" : "Sprich in Gedanken auf einen Beat. Werbung lebt vom Rhythmus.",
+          "title" : "Timing ist alles"
+        },
+        {
+          "description" : "Kein Schauspiel, kein Drama. Nur Energie – und Klarheit.",
+          "title" : "Weniger ist mehr"
+        },
+        {
+          "description" : "Wenn du beim Sprechen leicht nickst oder mit der Hand gestikulierst, fließt der Text besser.",
+          "title" : "Mach’s dir körperlich"
+        },
+        {
+          "description" : "Auch wenn’s fiktiv ist – tu so, als wärst du Fan. Das macht den Unterschied.",
+          "title" : "Kenne dein Produkt"
+        }
+      ],
+      "category" : "Medientraining",
+      "duration" : 7,
+      "goal" : "In dieser Übung erfährst du, wie ein Werbetext nicht nur gesprochen, sondern verkörpert wird. Denn Werbung heißt: Überzeugen mit Stimme.\nUnd zwar sofort. Wir tasten uns mit Haltung, Timing und einem sympathischen Textbaustein an die Werbewelt heran.",
+      "id" : "TjppLexcS9ZQ6aWIV2YT",
+      "lection" : 4,
+      "order" : 15,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D003_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D003_01.mp3?alt=media&token=3e847a84-3172-4c3c-955d-45e18abda9c6"
+            }
+          ],
+          "description" : "Werbung ist wie ein freundlicher Türöffner: Nicht aufdringlich – aber präsent.\nDeine Stimme soll **Interesse wecken**, **Vertrauen schaffen** – und **direkt zünden**.\n\n**Denk dich ein:**\nDu bist kein Marktschreier. Du bist die Stimme, die lächelt – und trotzdem sagt:\n**„Gleich wirst du das hier haben wollen.“**\n\nRRR3(Frage dich):[• Wie klinge ich, wenn ich etwas **echt gerne empfehle**?\n\n• Wie bringe ich Energie ins Spiel – **ohne zu überdrehen**?\n\n• Wo sitzt meine Stimme, wenn ich einen **guten Tipp unter Freunden** gebe?]\n\n**Meine Mini-Technik:**\nStell dir vor, du **zwinkerst** mit der Stimme – nicht mit dem Auge. Klingt verrückt. Funktioniert aber.",
+          "id" : "c6Ig0wp2zZgbC5k1d2WT",
+          "order" : 1,
+          "title" : "Der Werbe-Mindset – Schnell da, charmant bleiben"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D003_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D003_02.mp3?alt=media&token=d198f306-f904-4896-bd4c-5c710e36d03e"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Jetzt sprichst du einen echten, kleinen Werbetext. Nicht zu lang. Aber rhythmisch.\n\nSprich den Text zuerst mit **freundlichem Grundton** – ohne Ironie. Dann probier’s etwas **verspielter** – fast so, als würdest du **ein kleines Geheimnis verraten.**\nNimm beide Versionen auf und höre sie dir an. Welche klingt mehr nach „Verkauf mit Stil“ und passt mehr zu deiner Stimme\n\nRRR(Hier ein Beispiel von mir):[**Lust auf gute Laune? Dann mach den Tag zum Highlight – mit Frizz Up! Der neue Bio-Eistee, der nicht nur erfrischt, sondern begeistert. Frizz Up. Mehr als nur Tee. Ein Statement.**]",
+          "id" : "6vPZrh2iPKezQIwWQRW6",
+          "order" : 2,
+          "title" : "Übungstext trocken einsprechen – mit Flow & Haltung"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D003_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D003_03.mp3?alt=media&token=12fb2770-5a7c-4bde-978b-11d4a0e5a1d5"
+            },
+            {
+              "audioFileName" : "01D003_03d",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D003_03d.mp3?alt=media&token=1324cc59-29be-4979-b368-ddd8c0c31eac"
+            },
+            {
+              "audioFileName" : "01D003_03s",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D003_03s.mp3?alt=media&token=a8dbbe5c-6745-4e86-b88e-731e3bc04563"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Jetzt wird’s real: Der gleiche Text – aber mit einem **poppigen Musikbett** im Hintergrund. Deine Stimme muss **taktgenau**, **charismatisch** und **klar** klingen – ohne gegen die Musik anzukämpfen.\n\n**Denk dran:**\nNicht schreien – sondern mit **tragfähiger Stimme sprechen**.\n\nNicht hetzen – sondern **das Tempo souverän halten.**\n\nTipp: Lass vor der letzten Zeile **einen Beat** Pause – das gibt Punch. Achte auf **Satzmelodie** – Werbung ist immer auch **Musik mit Worten.**\n\nSSS:01D003_03s (Musikbett starten)\n\nRRR(Übungstext):[**Lust auf gute Laune? Dann mach den Tag zum Highlight – mit Frizz Up! Der neue Bio-Eistee, der nicht nur erfrischt, sondern begeistert.**\n**Frizz Up. Mehr als nur Tee. Ein Statement. Frizz Up.**]\n\nSSS:01D003_03d (Markus Demo anhören)",
+          "id" : "BXHMJ8rFBcy6BSZ549pC",
+          "order" : 3,
+          "title" : "Mit Musik sprechen – Tempo fühlen, nicht verlieren"
+        }
+      ],
+      "subtitle" : "Die Stimme, die verkauft",
+      "title" : "Werbetext mit Witz & Drive"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Eine kurze Pause vor dem Claim erhöht oft die Wirkung.",
+          "title" : "Nutze deine Pausen"
+        },
+        {
+          "description" : "IDs müssen taktsicher sein – trainiere deine Musikalität.",
+          "title" : "Übe mit Stoppuhr"
+        },
+        {
+          "description" : "Bleibe ruhig und zentriert – das wirkt stärker.",
+          "title" : "Klarheit schlägt Lautstärke"
+        },
+        {
+          "description" : "Auch kurze IDs dürfen deinen Stil widerspiegeln.",
+          "title" : "Mach’s zu deinem Sound"
+        }
+      ],
+      "category" : "Medientraining",
+      "duration" : 8,
+      "goal" : "Radio-IDs sind wie das akustische Logo eines Senders: kurz, prägnant, sofort im Ohr. In dieser Übung trainierst du deinen Einsatz für sogenannte Station IDs – also die Kennung, die zwischen Songs oder vor Sendungen läuft. In wenigen Sekunden musst du klar, präsent und markant sein – ohne übertrieben zu klingen. Diese Übung macht dich fit für Timing, Wiedererkennung und Energie.",
+      "id" : "pIS5mobGFdFcbDxhSVaM",
+      "lection" : 4,
+      "order" : 16,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D004_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D004_01.mp3?alt=media&token=3e773433-1085-417a-a56c-37a8897cc17f"
+            }
+          ],
+          "description" : "Lass uns nun in die Welt der Radiojingles und Station-IDs eintauchen. Als Station Voice für große Marken wie Antenne Bayern oder NDR2 sozusagen mein Spezialgebiet.\n\nBevor du sprichst, brauchst du ein **inneres Bild**: Du bist das akustische Aushängeschild von _Radio Puls_. Dein Einsatz muss sitzen. Stelle dir vor, deine Stimme soll in einer lauten Umgebung (Auto, Küche, Büro) klar und sympathisch durchkommen.\n\nRichte dich auf, zentriere deine Stimme im Brustraum und finde eine **präsente, ruhige Haltung**.\n\nRRR(Sprich laut und klar):[**Ich bin die Stimme – und jetzt bin ich dran.**]\n\nMach das 2–3x, bis du im Modus bist.",
+          "id" : "HtFNW9A0yJgPXCWRtjbl",
+          "order" : 1,
+          "title" : "Die Haltung – Du bist die Stimme des Senders"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D004_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D004_02.mp3?alt=media&token=972e20c6-61c4-4c74-bdc9-387125f699db"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Sprich die folgende Station-ID ohne Musik oder Sounddesign – achte dabei auf **deutliches Artikulieren** und **saubere Betonung**. Stell dir vor, du hättest nur wenige Sekunden, um den Sender einzigartig klingen zu lassen.\n\nRRR(Unser Übungstext ist):[**Radio Puls – immer am Puls der Zeit.**]\n\nRRR3(Mach mehrere Versionen):[• Eine ruhig und souverän\n\n• Eine frischer, jugendlicher\n\n• Eine mit etwas mehr Dynamik (z. B. für morgens)]\n\nWas klingt am klarsten? Was fühlt sich natürlich an?",
+          "id" : "9c7DlbJWiWAXkjxOXqaw",
+          "order" : 2,
+          "title" : "Die Trockenübung – Sprechen mit Präzision"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D004_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D004_03.mp3?alt=media&token=8c3128aa-1cce-495b-a78e-b507c6876fb7"
+            },
+            {
+              "audioFileName" : "01D004_03d",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D004_03d.mp3?alt=media&token=5147bd3a-878b-4abf-bb68-918a06e476f5"
+            },
+            {
+              "audioFileName" : "01D004_03s",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D004_03s.mp3?alt=media&token=6ebd9a23-9854-41ef-b794-36e8af14ac74"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Jetzt geht es um das richtige Timing: Die ID muss genau auf das Musikbett passen – kein Wort zu viel, kein Schnaufen dazwischen.\n\nTipp: Sprich mit einem inneren Puls. Du darfst schnell, aber nie gehetzt klingen.\n\nUnd höre dir, bevor du sprichst die Musik genau an, um ein inneres Gefühl für Tempo und Sprechrhythmus zu bekommen.\n\nMein Demo gibt dir die nötige Orientierung.\n\nSSS:01D004_03s (Station ID ohne Stimme starten)\n\nRRR(Übungstext):[**Radio Puls – immer am Puls der Zeit.**]\n\nSSS:01D004_03d (Markus Demo anhören)",
+          "id" : "QoonOXqa3luNpWEKtZ5K",
+          "order" : 3,
+          "title" : "Auf Zeit – Jetzt zählt das Timing"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D004_04",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D004_04.mp3?alt=media&token=f1170b0f-15ff-451c-9f9e-016918274d5f"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Zum Abschluss sprichst du drei kurze IDs in verschiedenen Stimmungen ein – so wie es in echten Sendern der Fall ist.\n\nAchte bei jeder Version auf **Klangfarbe, Energie und Tempo.**\n\n**Übrigens: Wenn Dir solche Übungen gefallen, dann findest Du noch viel mehr in meinem Coach+ Programm „OnAir-Bootcamp“ – ich würde mich freuen, wenn Du vorbeischaust!**\n\nNun zurück zur Übung. Das sind unsere Übungssätze:\n\n1. **Morgens (frisch & wach):**\n**„Radio Puls – dein Morgen beginnt hier.“**\n\n2. **Tagsüber (neutral & klar):**\n**„Radio Puls – mehr Musik, mehr Abwechslung.“**\n\n3. **Abends (ruhig & smooth):**\n**„Radio Puls – entspannt durch den Abend.“**",
+          "id" : "HfhYy1Kd90MrD3jWReg0",
+          "order" : 4,
+          "title" : "Bonus-Challenge – Drei IDs, drei Anlässe"
+        }
+      ],
+      "subtitle" : "Kurz, klar, wiedererkennbar",
+      "title" : "Radio ID"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Ein kurzer Moment des Innehaltens verstärkt den Einstieg.",
+          "title" : "Nutze die Stille vor dem Satz"
+        },
+        {
+          "description" : "Trailer leben vom Kopfkino – „siehst“ du die Szene, hörst du sie auch besser.",
+          "title" : "Stell dir Bilder vor"
+        },
+        {
+          "description" : "Du musst sie nicht übertönen – sie trägt dich.",
+          "title" : "Lass die Musik atmen"
+        },
+        {
+          "description" : "Ein guter Trailer-Satz wirkt durch Unterspannung, nicht durch Lautstärke.",
+          "title" : "Sprich weniger – meine mehr"
+        },
+        {
+          "description" : "Gänsehaut. Auch bei dir selbst.",
+          "title" : "Dein Ziel"
+        }
+      ],
+      "category" : "Medientraining",
+      "duration" : 7,
+      "goal" : "In dieser Übung setzt du zum ersten Mal bewusst einen typischen Trailer-Satz in Szene. Es geht darum, wie du mit Haltung, Atem und Klang eine große Bühne erzeugst – allein mit deiner Stimme. Du lernst, Spannung aufzubauen, ohne zu übertreiben, und deine Stimme so klingen zu lassen, als wärst du im Kino zu hören. Das Ziel ist nicht Lautstärke, sondern Tiefe – und ein Moment, der im Ohr bleibt.",
+      "id" : "xkS4rZC1TZqZT3ZzeloG",
+      "lection" : 4,
+      "order" : 17,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D005_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D005_01.mp3?alt=media&token=d8c728e3-b2c8-4fda-8cd2-d6ce1bc79eb8"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Trailer sind keine Alltagskommunikation. Hier geht es um **Inszenierung, Tiefe und Atmosphäre**.\n\nDeine Stimme ist nicht mehr nur ein Klang – sie ist der Erzähler einer ganzen Welt.\n\nStell dich aufrecht hin, atme tief in den Bauch. Lass deine Schultern locker, dein Brustkorb weit – du brauchst Raum für Resonanz. Stell dir vor: Ein ganzer Kinosaal hört nur auf dich.\n\nRRR(Und du sagst):[**Jetzt. Beginnt. Deine. Geschichte.**]\n\nMach eine Pause zwischen den Worten. Spür die Größe. Jetzt bist du im Trailer-Modus.",
+          "id" : "FTZ702hDElemKuMJyZ4G",
+          "order" : 1,
+          "title" : "Die Haltung – Jetzt wird’s episch"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D005_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D005_02.mp3?alt=media&token=a65960d5-40f2-4b7f-bb95-2920cb0fc41a"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Nun sprichst du den zentralen Satz der Übung – ohne Musik, ohne Soundeffekte. Es geht um die **Atmosphäre, die du allein mit deiner Stimme erzeugst.**\nKonzentriere dich auf ein **langsames, getragenes Tempo**, klare Artikulation, tiefe Atmung und **bewusste Pausen**.\n\nRRR3(Sprich den Übungstext ruhig mehrfach):[• **einmal sehr getragen**\n\n• **einmal minimal schneller**\n\n• **und einmal mit leichtem Augenzwinkern**]\n\nBeobachte: Wie verändert sich die Wirkung?\n\nRRR(Übungstext):[**In einer Welt voller Stimmen… hörte man plötzlich: dich.**]",
+          "id" : "9mzpVHq2a8HL28DziodE",
+          "order" : 2,
+          "title" : "Die Trockenübung – Konzentration auf Stimme und Pausen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D005_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D005_03.mp3?alt=media&token=6143ad1d-8308-4272-9a4f-b255c467905c"
+            },
+            {
+              "audioFileName" : "01D005_03d",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D005_03d.mp3?alt=media&token=cd988ff5-36c8-4af1-8aa3-d5d494ece93d"
+            },
+            {
+              "audioFileName" : "01D005_03s",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D005_03s.mp3?alt=media&token=44bdd9a4-10e8-43c9-aa46-0f9e8027db31"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Jetzt stell dir vor, unter deiner Stimme läuft ein epischer Trailer-Teppich. Große Streicher, ein tiefer Puls, etwas Drama liegt in der Luft. Deine Stimme muss **sich durchsetzen aber nicht durch Lautstärle** sondern **durch Ruhe und Präsenz**.\n\nSprich nun **denselben Satz** auf das dramatische, filmische Musikbett, welches du hier in diesem Übungsschritt findest.\n\nRRR3(Achte dabei auf):[• **Timing:** Die Worte müssen Raum haben\n\n• **Spannung:** Baue Druck auf, ohne zu pressen\n\n• **Klang:** Lass die Stimme „rund“ klingen, ohne Schärfe]\n\nWiederhole gerne – und spiele mit Nuancen. Mach es zu _deinem_ Trailer-Moment.\nWenn Du Inspiration brauchst: Höre dir gerne mein Demo an – und für mehr Übungen dieser Art, schau doch gerne in meinem Coach+ Programm „OnAir-Bootcamp“ vorbei.\n\nSSS:01D005_03s (Trailer Musikbett starten)\n\nRRR(Übungstext):[**In einer Welt voller Stimmen… In einer Dimension voller Klang. Hört man plötzlich nur auf eines: Deine Stimme**]\n\nSSS:01D005_03d (Markus Demo anhören)",
+          "id" : "tgPaU0mOZ6HNGBpFhEn5",
+          "order" : 3,
+          "title" : "Der Test auf Sound – Deine Stimme im Kinobett"
+        }
+      ],
+      "subtitle" : "Groß denken, tief klingen",
+      "title" : "Dein erster Trailer-Satz"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Du musst dich nicht für eine Stilrichtung entscheiden. Gute Sprecher:innen beherrschen Kontraste – und wechseln fließend zwischen ihnen.",
+          "title" : "Wechsel ist kein Widerspruch – sondern Werkzeug"
+        },
+        {
+          "description" : "Bevor du sprichst, frag dich: Was will ich beim Hörer auslösen? Die innere Haltung formt den Klang – ganz ohne Anstrengung.",
+          "title" : "Haltung zuerst – Stimme folgt"
+        },
+        {
+          "description" : "Gerade beim Üben darf es auch mal „too much“ sein. Übertreib ruhig – und finde dann deinen idealen Mittelweg. Klarheit entsteht durch Kontraste.",
+          "title" : "Spiel mit der Überzeichnung"
+        },
+        {
+          "description" : "Sammle Szenen oder Spots aus verschiedenen Genres – und sprich sie nach. Dein Stimminneres wird dabei flexibler als jedes Stretchingprogramm.",
+          "title" : "Baue dir eine Genre-Playlist"
+        }
+      ],
+      "category" : "Medientraining",
+      "duration" : 6,
+      "goal" : "In dieser Übung geht’s um Wandelbarkeit. Wie schnell kannst du zwischen Stilen umschalten? Zwischen Doku und Werbung? Zwischen Drama und Comedy? Du bekommst kurze Mini-Sätze – und probierst, sie mit völlig unterschiedlicher Haltung zu sprechen. Diese Flexibilität ist Gold wert: Für Castings, für Sessions, für deine persönliche Stimm-Range.",
+      "id" : "6uOHktmoAEh9yKuspfy5",
+      "lection" : 4,
+      "order" : 18,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D006_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D006_01.mp3?alt=media&token=4e9d1ba7-c929-46db-9309-bbcf6235a515"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Als Sprecher geht es vor allem darum, eine gewisse Wandelbarkeit zu haben. Außerdem müssen die verschiedenen Haltungen immer auf Abruf bereitstehen. Stelle es dir wie einen **stimmlichen Werkzeugkasten** vor. Jede Klangwelt hat dabei ihre eigene Energie. Diese Flexibilität wollen wir nun anhand kurzer Texte in verschiedenen Genres üben.\n\n**Doku:** ruhig, informativ, beobachtend.\n**Werbung:** direkt, knackig, emotional.\n\nRRR(Sprich folgenden Satz zunächst wie in einer Erzähldoku):[**Alles begann an einem Montagmorgen.**]\n\nLeise, sachlich, mit Abstand.\n\nDann sprich denselben Satz im **Werbestil**:\n\n**„Alles begann an einem Montagmorgen!“**\nEnergie, Direktheit, Neugier.\n\n**Tipp:** Stell dir bei der Doku ein Close-Up vor, bei der Werbung ein Werbespot für ein koffeinhaltiges Getränk.",
+          "id" : "42vLITSl27mvsYUSOn2l",
+          "order" : 1,
+          "title" : "Doku vs. Werbung – Zwei Welten, zwei Stimmen"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D006_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D006_02.mp3?alt=media&token=9459f6d5-c57a-4d56-aa4f-fb37b1518a34"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Jetzt kommt die nächste Gegenüberstellung: Trailer vs. Comedy.\n\nSprich folgenden Satz im **dramatischen Trailer-Stil** – langsam, ernst, mit Schwere:\n\n**„Und plötzlich war nichts mehr wie zuvor.“**\n\nUnd direkt danach Comedy:\nSchneller, spielerischer – als hättest du selbst gerade den Witz verstanden:\n\n**„Und plötzlich war nichts mehr wie zuvor…“** _(Augenbraue hoch, Schmunzler inklusive)_\n\nRRR3(Tipp):[**Achte darauf, wie Atmung, Betonung und Pausen den gesamten Tonfall verändern. Humor ist oft eine Frage des Timings.**]",
+          "id" : "vMwqZZR2xYpR3L28T4RK",
+          "order" : 2,
+          "title" : "Drama vs. Comedy – Gleicher Satz, anderes Ziel"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D006_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D006_03.mp3?alt=media&token=4517fd7e-4f16-4c45-8458-11cfac423d9e"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Such dir jetzt **einen beliebigen Satz** aus und probiere selbst noch zwei weitere Genres aus.\n\nRRR3(Zum Beispiel):[• Horror\n\n• Reportage\n\n• Märchenerzähler\n\n• YouTube-Voiceover\n\n• Podcast-Host]\n\n**Sprich, probiere & staune.** Wie viele Klangfarben hast du in dir?\n\nWenn du noch tiefer in deine Klangfarben einsteigen willst und die stimmliche Wandelbarkeit trainieren möchtest: Mein OnAir-Bootcamp in der Besser Sprechen App hat auch für dich noch einen Platz frei.",
+          "id" : "WcO8H9wpkEpXDe2TBcaC",
+          "order" : 3,
+          "title" : "Bonus-Mix – Du bestimmst den Ton!"
+        }
+      ],
+      "subtitle" : "Wie wandelbar bist du?",
+      "title" : "Genre-Switch"
+    },
+    {
+      "bonusTips" : [
+        {
+          "description" : "Diese Übung ist kein Casting, sondern ein innerer Dialog. Sag, was du denkst – nicht, was perfekt klingt.",
+          "title" : "Sprich frei – nicht fehlerfrei"
+        },
+        {
+          "description" : "Stell dir vor, du hörst diese Aufnahme in einem Jahr. Was willst du dir selbst mitgeben?",
+          "title" : "Denk nicht nur an heute – hör dich in die Zukunft"
+        },
+        {
+          "description" : "Reflexion darf tief gehen, aber sie darf auch Spaß machen. Humor ist oft ehrlicher als Pathos.",
+          "title" : "Nimm dich ernst – mit einem Augenzwinkern"
+        },
+        {
+          "description" : "Diese Aufnahme ist dein persönlicher Meilenstein. Sie erinnert dich daran, wo du stehst – und wohin du willst",
+          "title" : "Speichere deinen Take – und hör ihn dir immer mal wieder an"
+        }
+      ],
+      "category" : "Einleitung",
+      "duration" : 8,
+      "goal" : "Diese letzte Übung im Teaser-Bundle ist kein Test – sondern ein kleines Versprechen. An dich selbst. Warum willst du sprechen? Was treibt dich an? Wo willst du hin – mit deiner Stimme, deinem Stil, deinem Ausdruck? Nimm dir jetzt einen Moment und formuliere deine Motivation. Du hast nichts zu verlieren – aber jede Menge zu gewinnen.",
+      "id" : "aKooDFNtQjLsgeCJYKUq",
+      "lection" : 4,
+      "order" : 19,
+      "steps" : [
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D007_01",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D007_01.mp3?alt=media&token=12ab25d0-16ed-40e8-a156-60d96d65b9b3"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Denk kurz an den Moment, in dem du beschlossen hast:\n„Ich will meine Stimme besser nutzen. Ich will professioneller werden.“\n\nRRR3(Was war das für ein Moment?):[• Ein Lob?\n\n• Eine Idee?\n\n• Ein lang gehegter Wunsch?]\n\nSprich frei darüber. Vielleicht so:\n\n**„Ich habe mich nie getraut, laut zu sein – aber jetzt will ich gehört werden.“**\n\nOder: **„Ich liebe Sprache. Und ich will endlich wissen, wie weit ich mit meiner Stimme kommen kann.“**\n\nRRR3(Tipp):[**Es muss nicht perfekt klingen. Nur ehrlich.**]",
+          "id" : "fmHnB4YJgyT46rpIxiV0",
+          "order" : 1,
+          "title" : "Ein Blick zurück – Was hat dich hierher gebracht?"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D007_02",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D007_02.mp3?alt=media&token=9d9f3b5a-a8ce-4369-8048-db3d5144b7ef"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Was hat dir in diesem kurzen Schupperkursam meisten Freude gemacht? War es der Trailer-Satz? Die Doku-Stimme? Die Radio-ID?\n\n**Und warum?**\n\nRRR3(Sprich es laut aus):[**Ich hätte nie gedacht, dass ich so gut in Werbung klingen kann!**\n\nOder: **Doku war mein Highlight – ich war sofort drin.**\n\nOder ganz simpel: **Ich hab gemerkt, wie viel mehr in mir steckt.**]",
+          "id" : "OI7iXhpqZ2kTDML1vYtE",
+          "order" : 2,
+          "title" : "Was macht dir am meisten Spaß?"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D007_03",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D007_03.mp3?alt=media&token=7207735f-29a2-40c7-bb8c-88b7a150572d"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Jetzt kommt der Ausblick. Formuliere ein **klares Ziel** – realistisch, aber mutig.\n\nRRR3(Zum Beispiel):[• Ich möchte in einem halben Jahr mein erstes Voiceover-Projekt aufnehmen.\n\n• Ich will meine Stimme jeden Tag trainieren – 5 Minuten, ganz bewusst.\n\n• Ich will herausfinden, was meine Signature-Stimme ist.]\n\nMach es greifbar. Das hier ist **dein Audio-Commitment.**",
+          "id" : "oxzQyTOMOuXpX2nSqi1a",
+          "order" : 3,
+          "title" : "Dein Ziel – Was wünschst du dir für deine Stimme?"
+        },
+        {
+          "audioFiles" : [
+            {
+              "audioFileName" : "01D007_04",
+              "audioFileURL" : "https:\/\/firebasestorage.googleapis.com:443\/v0\/b\/bessersprechen-ad3ec.firebasestorage.app\/o\/step_audio%2F01D007_04.mp3?alt=media&token=b49244c6-d8be-4119-ba58-1f01a12d4380"
+            }
+          ],
+          "canRecord" : true,
+          "description" : "Zum Schluss: Sprich einen Satz, der für dich alles zusammenfasst.\n\nDein **persönlicher Leitsatz.** Deine Erinnerung, warum du das hier machst. Dein **Mutmacher.**\n\nRRR3(Hier ein paar Beispiele):[**Ich bin nicht perfekt – aber ich werde hörbar.**\n\n**Ich finde meinen Stil. Und bleibe dran.**\n\n**Das hier ist erst der Anfang.**]\n\nUnd genau das ist es auch. Wenn Du mit mir gemeinsam intensiv an deiner Stimme und Performance arbeiten willst: Das **OnAir-Bootcamp** im **Coach+ Bereich** ist für dich genau das Richtige.",
+          "id" : "unaN0nHwmzTrkmFdvUXf",
+          "order" : 4,
+          "title" : "Abschluss-Statement – Deine Stimme. Dein Weg."
+        }
+      ],
+      "subtitle" : "Persönlicher Ausblick",
+      "title" : "Deine Stimme, dein"
+    }
+  ],
+  "id" : "7NNPJbKfYVDd24Hy0PzJ",
+  "lections" : [
+    {
+      "id" : "7NNPJbKfYVDd24Hy0PzJ",
+      "number" : 1,
+      "title" : "Grundlagen für eine klare Stimme"
+    },
+    {
+      "id" : "7NNPJbKfYVDd24Hy0PzJ",
+      "number" : 2,
+      "title" : "Lerne deine Stimme kennen"
+    },
+    {
+      "id" : "7NNPJbKfYVDd24Hy0PzJ",
+      "number" : 3,
+      "title" : "Arbeite an deiner Aussprache"
+    },
+    {
+      "id" : "7NNPJbKfYVDd24Hy0PzJ",
+      "number" : 4,
+      "title" : "OnAir-Bootcamp - Schnupperkurs"
+    }
+  ],
+  "name" : "Free Bundle",
+  "speaker" : [
+    "Dietmar Wunder",
+    "Markus Kästle"
+  ],
+  "subtitle" : "Der perfekte Einstieg",
+  "type" : "Normal"
+}
